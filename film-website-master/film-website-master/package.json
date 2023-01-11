@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "custom-react-scripts": "0.0.21",
+    "custom-react-scripts": "0.2.2",
     "redux-logger": "^2.7.4"
   },
   "dependencies": {
